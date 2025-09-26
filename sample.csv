@@ -1,0 +1,13 @@
+﻿Optical Power Monitor
+6.5.5217.15
+
+; PM 15122110
+Type; PM16-130
+Serialnumber; 15122110
+Sensor; Photodiode
+SensorSerialnumber; 15122110
+Wavelength / Responsivity; 810 nm
+
+PM 15122110;
+Power (W);
+0.00927;
