@@ -1,6 +1,6 @@
 
 
-![Logo]([https://img2.rtve.es/n/2443266](https://w7.pngwing.com/pngs/602/548/png-transparent-light-laser-sword-lightsaber-arms-star-wars-thumbnail.png))
+![Logo](https://www.kindpng.com/picc/m/151-1513278_red-laser-png-rayo-laser-dibujo-png-transparent.png)
 # Laser
 
 Trabajo realizado para la practica de Laser para laboratorio 5. En este repositorio van a encontrar la siguiente informacion:
